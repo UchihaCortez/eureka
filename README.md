@@ -1,6 +1,7 @@
 Eureka
 ======
 [![build](https://github.com/Netflix/eureka/actions/workflows/nebula-snapshot.yml/badge.svg)](https://github.com/Netflix/eureka/actions/workflows/nebula-snapshot.yml)
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FUchihaCortez%2Feureka.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2FUchihaCortez%2Feureka?ref=badge_shield)
 
 Eureka is a RESTful (Representational State Transfer) service that is primarily used in the AWS cloud for the purpose of
 discovery, load balancing and failover of middle-tier servers. It plays a critical role in Netflix mid-tier infra.
@@ -24,3 +25,7 @@ periodically. Issues with the most minimal repro possible have the highest chanc
 Documentation
 --------------
 Please see [wiki](https://github.com/Netflix/eureka/wiki) for detailed documentation.
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FUchihaCortez%2Feureka.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2FUchihaCortez%2Feureka?ref=badge_large)
